@@ -1,0 +1,85 @@
+body{
+  background-color: beige;
+}
+.ortadakiler{
+  text-align: center;
+  background-color: darkorange;
+  margin-left: 600px;
+  margin-right: 600px;
+  border-radius: 60px/60px;
+  box-shadow: 10px 10px rgb(173, 173, 172);
+  /*margin:auto*/
+ 
+
+  
+  }
+
+h1{color: white; text-shadow: 2px 2px grey}
+.ortadakiler a{color: white; text-decoration:none;}
+.ortadakiler{
+  margin-top: 30px;
+}
+.etiketler{
+  padding-bottom: 30px;
+  padding-right: 20px;
+  
+}
+h1{
+  padding-top: 20px;
+  font-family:inherit;
+}
+.etiketler a{
+  margin-left: 20px;
+  font-size: 23px;
+  text-shadow: 2px 2px gray;
+  
+}
+p{
+  color: white;
+  
+}
+
+ul { list-style-type:none; padding-top: 50; }
+
+ul h3{color: white;
+
+margin:auto
+
+}
+ .ortadakiler img{
+  
+  height: 850px;
+  width: 850px;
+  position: absolute;
+  left: 200px;
+  top: 300px;
+  z-index: +1;
+   
+ 
+ }
+ .müzikal img{
+  width: 300px;
+  height: 300px;
+  margin:auto
+  
+
+  
+  
+ }
+
+ hr{
+  margin-left: 500px;
+  margin-right: 500px;
+ }
+ .ortadakiler .parag p{
+  padding-bottom: 90px;
+  padding-left: 10px;
+  padding-right: 10px;
+ }
+
+
+
+
+
+
+
